@@ -6,3 +6,5 @@ to showcase how easy it is to deploy to
 select this repository to deploy on your server and you're all set!
 
 Hatchbox.io is built by [Chris Oliver](https://excid3.com) of [GoRails](https://gorails.com).
+
+Testing webhook deploys don't trigger this branch.
